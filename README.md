@@ -46,7 +46,7 @@ learning algorithm</li>
 
 ---
 ## Education
-###Bachelor of Science in Computer Science | Salisbury University
+### Bachelor of Science in Computer Science | Salisbury University
 <ul>
   <li><b>August 2015 - Present</b> (Anticipated Graduation - December 2018) </li>
   <li> Minor: Mathematics </li>
